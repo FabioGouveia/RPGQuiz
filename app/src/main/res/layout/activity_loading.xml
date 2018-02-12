@@ -1,4 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout style="@style/LargeView">
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/LargeView">
+
+    <!-- Level progress bar -->
+    <ProgressBar
+        android:id="@+id/progress_dialog_progressBar"
+        style="@style/LoadingProgressbar.ThinBar" />
 
 </RelativeLayout>
