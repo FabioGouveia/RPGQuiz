@@ -21,4 +21,8 @@
         <item name="android:orientation">vertical</item>
     </style>
 
+    <style name="LargeView.Horizontal">
+        <item name="android:orientation">horizontal</item>
+    </style>
+
 </resources>
