@@ -3,7 +3,6 @@
     <style name="DungeonTheme" parent="Theme.AppCompat.Light">
         <item name="colorPrimary">@color/colorPrimaryDark</item>
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
-        <item name="colorAccent">@color/colorAccent</item>
 
         <item name="android:windowFullscreen">true</item>
         <item name="windowActionBar">false</item>
