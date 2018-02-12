@@ -4,6 +4,10 @@
     <color name="colorPrimaryDark">@android:color/holo_green_dark</color>
     <color name="colorAccent">#FF4081</color>
 
+    <!-- Progressbar colors -->
+    <color name="colorProgressbarBackground">#5e3f51b5</color>
+    <color name="colorProgressbar">@color/colorPrimaryDark</color>
+
     <!--Level Select Colors-->
     <color name="level">#000000</color>
 
