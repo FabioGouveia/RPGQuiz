@@ -8,4 +8,13 @@
         </shape>
     </item>
 
+    <!-- Define the progress properties like color, etc-->
+    <item android:id="@android:id/progress">
+        <clip>
+            <shape>
+                <solid android:color="@color/colorProgressbar" />
+            </shape>
+        </clip>
+    </item>
+
 </layer-list>
