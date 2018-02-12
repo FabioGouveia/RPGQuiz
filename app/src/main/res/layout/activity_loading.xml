@@ -1,4 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?><!--
+    This layout represents the starting point interface, it's a loader
+    interface that have the purpose of inform the user that is something happen
+    on background.
+
+    @author Fábio Gouveia
+-->
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     style="@style/LargeView">
 
