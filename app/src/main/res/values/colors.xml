@@ -4,7 +4,13 @@
     <color name="colorPrimaryLight">#0babf3</color>
     <color name="colorPrimary">#FF05618B</color>
     <color name="colorPrimaryDark">#002984</color>
+    <color name="colorPrimaryText">@color/colorSecondaryLight</color>
 
+    <!-- Secondary color palette -->
+    <color name="colorSecondary">#e8eaf6</color>
+    <color name="colorSecondaryLight">#ffffff</color>
+    <color name="colorSecondaryDark">#b6b8c3</color>
+    <color name="colorSecondaryText">#000000</color>
 
     <!-- Progressbar colors -->
     <color name="colorProgressbarBackground">#8dec252d</color>
