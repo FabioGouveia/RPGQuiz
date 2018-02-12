@@ -25,4 +25,17 @@
         <item name="android:orientation">horizontal</item>
     </style>
 
+
+    <!-- Progressbar horizontal customized styles -->
+    <style name="LoadingProgressbar" parent="Widget.AppCompat.ProgressBar.Horizontal">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">@dimen/progressbar_height</item>
+        <item name="android:max">@integer/progressbar_max</item>
+        <item name="android:progressDrawable">@drawable/bgd_progressbar</item>
+    </style>
+
+    <style name="LoadingProgressbar.ThinBar">
+        <item name="android:layout_height">@dimen/progressbar_thin_height</item>
+    </style>
+
 </resources>
