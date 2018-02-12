@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#0babf3</color>
-    <color name="colorPrimaryDark">#FF05618B</color>
-    <color name="colorAccent">#c5fe19</color>
+    <!-- Primary color palette -->
+    <color name="colorPrimaryLight">#0babf3</color>
+    <color name="colorPrimary">#FF05618B</color>
+    <color name="colorPrimaryDark">#002984</color>
+
 
     <!-- Progressbar colors -->
     <color name="colorProgressbarBackground">#8dec252d</color>
