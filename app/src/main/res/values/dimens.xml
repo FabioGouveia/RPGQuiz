@@ -11,6 +11,10 @@
     <dimen name="dimen_50">50dp</dimen>
     <dimen name="dimen_xl">64dp</dimen>
 
+    <!-- Progressbar dimensions -->
+    <dimen name="progressbar_height">5dp</dimen>
+    <dimen name="progressbar_thin_height">@dimen/dimen_xs</dimen>
+
     <dimen name="layout_padding">24dp</dimen>
     <dimen name="game_text_size">100sp</dimen>
     <dimen name="drawable_padding">7dp</dimen>
