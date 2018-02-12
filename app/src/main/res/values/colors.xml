@@ -17,8 +17,8 @@
     <color name="colorProgressbar">#dc566d</color>
 
     <!--Level Select Colors-->
-    <color name="level">#000000</color>
+    <color name="level">@color/colorSecondaryText</color>
 
     <!--Community Text Colors-->
-    <color name="text">#000000</color>
+    <color name="text">@color/colorSecondaryText</color>
 </resources>
